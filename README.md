@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040071
+# Name: DHARANI SREE P
+# Date: 7-05-2026
 
 
 # AIM:
@@ -40,8 +40,9 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+USE CASE :
 
-
+<img width="1188" height="922" alt="image" src="https://github.com/user-attachments/assets/c591e7f5-b06d-4ab6-928c-5ebbc484138f" />
 
 
 
@@ -60,6 +61,10 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+CLASS DIAGRAM :
+
+<img width="1223" height="742" alt="image" src="https://github.com/user-attachments/assets/df430ac6-051d-44e3-abbe-c5a2f3519aa3" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +73,9 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+COMMUNICTION DIAGRAM:
+
+<img width="1136" height="902" alt="image" src="https://github.com/user-attachments/assets/e0b91a01-077b-4e12-83b8-02b68ba94b92" />
 
 
 
@@ -81,6 +89,9 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+PACKAGE DIAGRAM:
+
+<img width="1147" height="787" alt="image" src="https://github.com/user-attachments/assets/f1998402-e1b9-45e8-88b9-297f73eebb77" />
 
 
 
@@ -98,6 +109,9 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+ACTIVITY DIAGRAM:
+
+<img width="1001" height="983" alt="image" src="https://github.com/user-attachments/assets/78c5b8e7-3c04-4b97-9ab5-cd83de5a2cd7" />
 
 
 
@@ -120,6 +134,9 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+SEQUENCE DIAGRAM :
+
+<img width="1200" height="887" alt="image" src="https://github.com/user-attachments/assets/790318a4-abf5-487b-a35c-c41d95ea70c6" />
 
 
 
